@@ -1,5 +1,7 @@
 import java.util.Scanner;
 //Felipe Navarro Jamaica
+//Alcancia que permite meter una moneda de algun valor, contar cuantas monedas hay, el total ahorrado y vaciar la alcancia
+//20/08/2024
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
