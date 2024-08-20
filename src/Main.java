@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        //Felipe Navarro Jamaica
         Scanner scanner = new Scanner(System.in);
         int opcion, moneda, mon20=0, mon50=0, mon100=0, mon200=0, mon500=0;
         boolean salir = false;
